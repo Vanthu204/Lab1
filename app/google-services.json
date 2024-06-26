@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242093517899",
+    "project_id": "prjdemo-b8f13",
+    "storage_bucket": "prjdemo-b8f13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242093517899:android:0faa978c73745aaa7c31ce",
+        "android_client_info": {
+          "package_name": "com.example.restapidemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYWUzzurUbH11JTAlfCJOli24PGWVf00Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
